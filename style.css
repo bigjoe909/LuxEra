@@ -262,27 +262,27 @@ nav a.active {
 */
 
 .photo-1 {
-  background-image: url("/luxera/c.jpg");
+  background-image: url("c.jpg");
 }
 
 .photo-2 {
-   background-image: url("/luxera/sinb.jpg");
+   background-image: url("sinb.jpg");
 }
 
 .photo-3 {
- background-image: url("/luxera/sinw.jpg");
+ background-image: url("sinw.jpg");
 }
 
 .photo-4 {
-  background-image: url("/luxera/caps.jpg");
+  background-image: url("caps.jpg");
 }
 
 .photo-5 {
-  background-image: url("/luxera/tee.jpg");
+  background-image: url("tee.jpg");
 }
 
 .photo-6 {
-  background-image: url("/luxera/tebw.jpg");
+  background-image: url("tebw.jpg");
 }
 
 .photo-7 {
@@ -290,15 +290,15 @@ nav a.active {
 }
 
 .photo-8 {
-  background-image: url("/luxera/men.jpg");
+  background-image: url("men.jpg");
 }
 
 .photo-9 {
-  background-image: url("/luxera/many.jpg");
+  background-image: url("many.jpg");
 }
 
 .photo-10 {
-  background-image: url("/luxera/ste.jpg");
+  background-image: url("ste.jpg");
 }
 
 
